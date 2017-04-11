@@ -1,7 +1,7 @@
 --- April 10 Jun Yang
 DID SINCE LAST SCRUM:
-1. I design database
-2. I create Trello account and project github 
+1. design database
+2. create Trello account and project github 
 
 --- April 10 Chen Chen
 1. edit the proposal.doc
