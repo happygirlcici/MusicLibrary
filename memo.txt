@@ -1,0 +1,6 @@
+USERNAME: chen.chen.ipd9 [Do not use your email address to login]
+PASSWORD: cc1168
+
+https://portal.azure.com/#dashboard/private/e964b830-3420-4e28-9dfe-d85558d3a00c
+
+Server=tcp:chenyangproject.database.windows.net,1433;Initial Catalog=musiclibrary;Persist Security Info=False;User ID={your_username};Password={your_password};MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;
